@@ -16,7 +16,7 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.tooling.preview.Preview
 import com.diego.kotlin.basicstatecodelab.ui.theme.BasicStateCodelabTheme
 
-@Composable
+/*@Composable
 fun WellnessTaskItem(
     taskName: String,
     onClose: () -> Unit,
@@ -31,7 +31,7 @@ fun WellnessTaskItem(
         onClose = onClose,
         modifier = modifier,
     )
-}
+}*/
 
 @Composable
 fun WellnessTaskItem(
